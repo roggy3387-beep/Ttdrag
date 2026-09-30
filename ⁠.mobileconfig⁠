@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadDescription</key>
+            <string>Free Fire Pro Brazil Sensitivity & Touch Response Setup</string>
+            <key>PayloadDisplayName</key>
+            <string>Aimdrag VIP Sensi 🇻🇳🍎</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.accesscontrol.sensitivity.config</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>A1B2C3D4-E5F6-7890-ABCD-EF0123456789</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>TouchResponseMultiplier</key>
+            <real>2.75</real>
+            <key>AxisSensitivityX</key>
+            <real>98.5</real>
+            <key>AxisSensitivityY</key>
+            <real>95.0</real>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Universal iOS Sensitivity Configuration Profile</string>
+    <key>PayloadDisplayName</key>
+    <string>Aimdrag 🔥🇻🇳 [VIP]</string>
+    <key>PayloadIdentifier</key>
+    <string>com.reak.config.profile</string>
+    <key>PayloadOrganization</key>
+    <string>Reak Sensi Studio</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>F9E8D7C6-B5A4-3210-DCBA-9876543210AB</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
+ yl
